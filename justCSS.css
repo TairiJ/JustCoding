@@ -1,0 +1,28 @@
+/* Selector -> h1 , property -> color , value -> navy , declaration -> ; */
+
+h1 {
+    color: navy;
+}
+
+/* TYPE */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+    width: 300px;
+    padding: 1em;
+}
+
+h1 {
+    font-size: 180%;
+}
+
+/* ID */
+#copyright {
+    font-size: 75%;
+    text-align: right;
+}
+
+/* CLASS */
+.base_color {
+    color: blue;
+}
